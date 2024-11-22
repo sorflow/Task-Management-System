@@ -150,8 +150,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Your Name]
-[Your Contact Information]
+[Derek Grant]
+[derek.grant@bulldogs.aamu.edu]
 
 ## Acknowledgments
 
